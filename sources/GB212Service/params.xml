@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<params>
+	<param slaveid="27" paramid="1" name="OC_TOT" zhname="热光透射法OC" code="a34010" unit="ug/m^3" point_num="5" />
+	<param slaveid="27" paramid="2" name="EC_TOT" zhname="热光透射法EC" code="a34009" unit="ug/m^3" point_num="5" />
+	<param slaveid="27" paramid="3" name="OC_TOR" zhname="热光反射法OC" code="ua19004" unit="ug/m3" point_num="5" />
+	<param slaveid="27" paramid="4" name="EC_TOR" zhname="热光反射法EC" code="ua19005" unit="ug/m3" point_num="5" />
+	<param slaveid="27" paramid="5" name="TC" zhname="总碳" code="ua19003" unit="ug/m3" point_num="3" />
+	<param slaveid="28" paramid="1" name="Cl" zhname="氯" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="2" name="K" zhname="钾" code="811" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="3" name="Ca" zhname="钙" code="810" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="4" name="Sc" zhname="钪" code="812" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="5" name="Ti" zhname="钛" code="806" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="6" name="V" zhname="钒" code="808" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="7" name="Cr" zhname="铬" code="023" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="8" name="Mn" zhname="锰" code="805" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="9" name="Fe" zhname="铁" code="804" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="10" name="Co" zhname="钴" code="040" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="11" name="Ni" zhname="镍" code="028" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="12" name="Cu" zhname="铜" code="029" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="13" name="Zn" zhname="锌" code="030" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="14" name="Ga" zhname="镓" code="816" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="15" name="As" zhname="砷" code="809" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="16" name="Se" zhname="硒" code="801" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="17" name="Br" zhname="溴" code="814" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="18" name="Sr" zhname="锶" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="19" name="Mo" zhname="钼" code="038" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="20" name="Pd" zhname="钯" code="813" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="21" name="Ag" zhname="银" code="033" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="22" name="Cd" zhname="镉" code="803" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="23" name="Sn" zhname="锡" code="036" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="24" name="Sb" zhname="锑" code="807" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="25" name="Te" zhname="碲" code="815" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="26" name="Cs" zhname="铯" code="817" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="27" name="Ba" zhname="钡" code="039" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="28" name="Hg" zhname="汞" code="802" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="29" name="Tl" zhname="铊" code="041" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="30" name="Pb" zhname="铅" code="112" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="31" name="PM10" zhname="PM10" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="40" name="Si" zhname="硅" code="a99948" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="41" name="Al" zhname="铝" code="a99949" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="42" name="P" zhname="磷" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="43" name="S" zhname="硫" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="45" name="PM2.5" zhname="PM2.5" code="121" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="46" name="Au" zhname="金" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="47" name="Ge" zhname="锗" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="48" name="Rb" zhname="铷" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="49" name="Bi" zhname="铋" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="28" paramid="50" name="Pt" zhname="铂" code="" unit="ng/m3" point_num="3" />
+	<param slaveid="29" paramid="1" name="Ca离子" zhname="Ca离子" code="" unit="ug/m3" point_num="3" />
+    <param slaveid="29" paramid="2" name="Mg离子" zhname="Mg离子" code="" unit="ug/m3" point_num="3" />
+    <param slaveid="29" paramid="3" name="K离子" zhname="K离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="4" name="NH4离子" zhname="NH4离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="5" name="Na离子" zhname="Na离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="6" name="SO4离子" zhname="SO4离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="7" name="NO3离子" zhname="NO3离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="8" name="Cl离子" zhname="Cl离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="9" name="NH3" zhname="NH3" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="10" name="SO2" zhname="SO2" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="11" name="HNO3" zhname="HNO3" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="12" name="HNO2" zhname="HNO2" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="13" name="HCl" zhname="HCl" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="14" name="NO2" zhname="NO2" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="15" name="NO2离子" zhname="NO2离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="16" name="F离子" zhname="F离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="17" name="Br离子" zhname="Br离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="18" name="Li离子" zhname="Li离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="19" name="Li离子" zhname="Li离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="20" name="气态 Ca离子" zhname="气态 Ca离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="21" name="气态 Mg离子" zhname="气态 Mg离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="22" name="气态  K离子" zhname="气态  K离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="22" name="气态 Ca离子" zhname="气态 Ca离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="23" name="气态 NH4离子" zhname="气态 NH4离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="24" name="气态 Na离子" zhname="气态 Na离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="25" name="气态 SO4离子" zhname="气态 SO4离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="26" name="气态 NO3离子" zhname="气态 NO3离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="27" name="气态 NO2离子" zhname="气态 NO2离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="28" name="气态 Cl离子" zhname="气态 Cl离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="29" name="气态 F离子" zhname="气态 F离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="30" name="气态 Br离子" zhname="气态 Br离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="31" name="气态 PO4离子" zhname="气态 PO4离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="32" name="气态 Li离子" zhname="气态 Li离子" code="" unit="ug/m3" point_num="3" />
+	<param slaveid="29" paramid="33" name="HF" zhname="HF" code="" unit="ug/m3" point_num="3" />
+</params>

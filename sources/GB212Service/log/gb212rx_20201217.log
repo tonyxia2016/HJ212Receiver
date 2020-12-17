@@ -1,0 +1,5 @@
+[2020-12-17 10:11:29][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-17 10:11:29][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-17 10:11:57][4]ConfigYWriter.h:40 GetConfig: YAML: bad file: ../config/config.yaml
+[2020-12-17 10:12:16][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-17 10:12:16][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085

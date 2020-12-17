@@ -1,0 +1,24 @@
+[2020-12-03 11:08:41][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 11:08:41][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 11:08:41][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 11:08:41][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 11:19:37][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 11:19:37][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 11:19:37][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 11:19:37][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 11:19:46][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 11:19:46][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 11:19:46][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 11:19:46][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 11:21:27][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 11:21:27][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 11:21:27][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 11:21:27][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 15:59:32][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 15:59:32][2]mainservice.cpp:36 MainService::start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 15:59:32][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 15:59:33][2]mainservice.cpp:42 MainService::start: Modbus Tcp Server start at port: 6000
+[2020-12-03 16:07:59][2]tcpserver.h:42 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 16:07:59][2]mainservice.cpp:31 MainService::start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 16:08:18][2]tcpserver.h:42 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 16:08:18][2]mainservice.cpp:31 MainService::start: GB212Receiver Tcp Server start at port: 8085

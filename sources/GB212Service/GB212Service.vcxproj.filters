@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="主服务">
+      <UniqueIdentifier>{b9899eb7-3513-467c-ad5b-01a6d4c732aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="数据接收">
+      <UniqueIdentifier>{9bfc3b21-1a72-48f8-a4cf-b7323d53ce4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="协议格式">
+      <UniqueIdentifier>{27fc7d78-854a-40e3-82db-e7e1bc76abff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="配置">
+      <UniqueIdentifier>{6c14aaec-1983-45af-9cbc-02fc56f07f54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="数据中间件">
+      <UniqueIdentifier>{009f535a-31d1-404a-81e8-ab5c811280d7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainApp.cpp">
+      <Filter>主服务</Filter>
+    </ClCompile>
+    <ClCompile Include="MainService.cpp">
+      <Filter>主服务</Filter>
+    </ClCompile>
+    <ClCompile Include="Connection.cpp">
+      <Filter>数据接收</Filter>
+    </ClCompile>
+    <ClCompile Include="GB212DataMiddleware.cpp">
+      <Filter>数据中间件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainApp.h">
+      <Filter>主服务</Filter>
+    </ClInclude>
+    <ClInclude Include="MainService.h">
+      <Filter>主服务</Filter>
+    </ClInclude>
+    <ClInclude Include="cnfY.h">
+      <Filter>配置</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigY.h">
+      <Filter>配置</Filter>
+    </ClInclude>
+    <ClInclude Include="GB212.h">
+      <Filter>协议格式</Filter>
+    </ClInclude>
+    <ClInclude Include="Connection.h">
+      <Filter>数据接收</Filter>
+    </ClInclude>
+    <ClInclude Include="ConnectionManager.h">
+      <Filter>数据接收</Filter>
+    </ClInclude>
+    <ClInclude Include="TcpServer.h">
+      <Filter>数据接收</Filter>
+    </ClInclude>
+    <ClInclude Include="net.h">
+      <Filter>数据中间件</Filter>
+    </ClInclude>
+    <ClInclude Include="cnfYDefine.h">
+      <Filter>配置</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigYWriter.h">
+      <Filter>配置</Filter>
+    </ClInclude>
+    <ClInclude Include="cnfYNode.h">
+      <Filter>配置</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigYNode.h">
+      <Filter>配置</Filter>
+    </ClInclude>
+    <ClInclude Include="GB212DataMiddleware.h">
+      <Filter>数据中间件</Filter>
+    </ClInclude>
+    <ClInclude Include="pub.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

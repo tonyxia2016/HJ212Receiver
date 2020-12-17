@@ -1,0 +1,34 @@
+[2020-12-03 15:33:52][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 15:33:52][2]MainService.cpp:36 start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 15:33:52][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 15:33:52][2]MainService.cpp:42 start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 15:36:49][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 15:36:49][2]MainService.cpp:36 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 15:36:49][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 15:36:49][2]MainService.cpp:42 start: Modbus Tcp Server start at port: 6000
+[2020-12-03 15:38:19][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 15:38:19][2]MainService.cpp:36 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 15:38:19][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 15:38:19][2]MainService.cpp:42 start: Modbus Tcp Server start at port: 6000
+[2020-12-03 15:42:04][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 15:42:04][2]MainService.cpp:36 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 15:42:04][2]TcpServer.h:43 start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 15:42:04][2]MainService.cpp:42 start: Modbus Tcp Server start at port: 6000
+[2020-12-03 16:15:34][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 16:15:34][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 16:17:02][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 16:17:02][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 16:17:06][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 16:17:06][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 20:11:30][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 20:11:30][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 20:12:35][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 20:12:35][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 20:28:56][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 20:28:56][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 20:33:37][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 20:33:37][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 20:35:24][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 20:35:24][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-03 20:38:44][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 20:38:44][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085

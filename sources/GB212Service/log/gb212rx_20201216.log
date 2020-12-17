@@ -1,0 +1,6 @@
+[2020-12-16 11:41:16][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-16 11:41:16][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-16 18:24:33][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-16 18:24:33][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085
+[2020-12-16 18:28:10][2]TcpServer.h:42 start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-16 18:28:10][2]MainService.cpp:31 start: GB212Receiver Tcp Server start at port: 8085

@@ -1,0 +1,16 @@
+[2020-12-03 09:16:55][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 09:16:55][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 09:16:55][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 09:16:55][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 11:05:35][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 11:05:35][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 11:05:35][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 11:05:35][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 11:08:32][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 11:08:32][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 11:08:32][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 11:08:32][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
+[2020-12-03 11:22:24][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:8085] Successful.
+[2020-12-03 11:22:24][2]mainservice.cpp:36 MainService::start: 启动GB212服务成功，监听端口: 8085
+[2020-12-03 11:22:24][2]tcpserver.h:43 network::TcpServer::start: Startup TCP Server on[127.0.0.1:6000] Successful.
+[2020-12-03 11:22:24][2]mainservice.cpp:42 MainService::start: 启动Modbus服务成功，监听端口: 6000
