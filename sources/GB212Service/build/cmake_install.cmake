@@ -1,4 +1,4 @@
-# Install script for directory: /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service
+# Install script for directory: /root/GithubProjects/HJ212Receiver/sources/GB212Service
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/GB212Receiver"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/GB212Receiver")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/GB212Receiver")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/GB212Receiver" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/GB212Receiver")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -61,5 +61,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

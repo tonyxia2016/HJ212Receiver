@@ -43,10 +43,10 @@ RM = /usr/local/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service
+CMAKE_SOURCE_DIR = /root/GithubProjects/HJ212Receiver/sources/GB212Service
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build
+CMAKE_BINARY_DIR = /root/GithubProjects/HJ212Receiver/sources/GB212Service/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/GB212Receiver.dir/depend.make
@@ -59,81 +59,81 @@ include CMakeFiles/GB212Receiver.dir/flags.make
 
 CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o: CMakeFiles/GB212Receiver.dir/flags.make
 CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o: ../GB212DataMiddleware.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o -c /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/GB212DataMiddleware.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o -c /root/GithubProjects/HJ212Receiver/sources/GB212Service/GB212DataMiddleware.cpp
 
 CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/GB212DataMiddleware.cpp > CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/GithubProjects/HJ212Receiver/sources/GB212Service/GB212DataMiddleware.cpp > CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.i
 
 CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/GB212DataMiddleware.cpp -o CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/GithubProjects/HJ212Receiver/sources/GB212Service/GB212DataMiddleware.cpp -o CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.s
 
 CMakeFiles/GB212Receiver.dir/Connection.cpp.o: CMakeFiles/GB212Receiver.dir/flags.make
 CMakeFiles/GB212Receiver.dir/Connection.cpp.o: ../Connection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/GB212Receiver.dir/Connection.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/Connection.cpp.o -c /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/Connection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/GB212Receiver.dir/Connection.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/Connection.cpp.o -c /root/GithubProjects/HJ212Receiver/sources/GB212Service/Connection.cpp
 
 CMakeFiles/GB212Receiver.dir/Connection.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GB212Receiver.dir/Connection.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/Connection.cpp > CMakeFiles/GB212Receiver.dir/Connection.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/GithubProjects/HJ212Receiver/sources/GB212Service/Connection.cpp > CMakeFiles/GB212Receiver.dir/Connection.cpp.i
 
 CMakeFiles/GB212Receiver.dir/Connection.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GB212Receiver.dir/Connection.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/Connection.cpp -o CMakeFiles/GB212Receiver.dir/Connection.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/GithubProjects/HJ212Receiver/sources/GB212Service/Connection.cpp -o CMakeFiles/GB212Receiver.dir/Connection.cpp.s
 
 CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o: CMakeFiles/GB212Receiver.dir/flags.make
 CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o: ../DataMiddleware.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o -c /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/DataMiddleware.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o -c /root/GithubProjects/HJ212Receiver/sources/GB212Service/DataMiddleware.cpp
 
 CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/DataMiddleware.cpp > CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/GithubProjects/HJ212Receiver/sources/GB212Service/DataMiddleware.cpp > CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.i
 
 CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/DataMiddleware.cpp -o CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/GithubProjects/HJ212Receiver/sources/GB212Service/DataMiddleware.cpp -o CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.s
 
 CMakeFiles/GB212Receiver.dir/MainApp.cpp.o: CMakeFiles/GB212Receiver.dir/flags.make
 CMakeFiles/GB212Receiver.dir/MainApp.cpp.o: ../MainApp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/GB212Receiver.dir/MainApp.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/MainApp.cpp.o -c /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainApp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/GB212Receiver.dir/MainApp.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/MainApp.cpp.o -c /root/GithubProjects/HJ212Receiver/sources/GB212Service/MainApp.cpp
 
 CMakeFiles/GB212Receiver.dir/MainApp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GB212Receiver.dir/MainApp.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainApp.cpp > CMakeFiles/GB212Receiver.dir/MainApp.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/GithubProjects/HJ212Receiver/sources/GB212Service/MainApp.cpp > CMakeFiles/GB212Receiver.dir/MainApp.cpp.i
 
 CMakeFiles/GB212Receiver.dir/MainApp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GB212Receiver.dir/MainApp.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainApp.cpp -o CMakeFiles/GB212Receiver.dir/MainApp.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/GithubProjects/HJ212Receiver/sources/GB212Service/MainApp.cpp -o CMakeFiles/GB212Receiver.dir/MainApp.cpp.s
 
 CMakeFiles/GB212Receiver.dir/MainService.cpp.o: CMakeFiles/GB212Receiver.dir/flags.make
 CMakeFiles/GB212Receiver.dir/MainService.cpp.o: ../MainService.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/GB212Receiver.dir/MainService.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/MainService.cpp.o -c /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainService.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/GB212Receiver.dir/MainService.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/MainService.cpp.o -c /root/GithubProjects/HJ212Receiver/sources/GB212Service/MainService.cpp
 
 CMakeFiles/GB212Receiver.dir/MainService.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GB212Receiver.dir/MainService.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainService.cpp > CMakeFiles/GB212Receiver.dir/MainService.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/GithubProjects/HJ212Receiver/sources/GB212Service/MainService.cpp > CMakeFiles/GB212Receiver.dir/MainService.cpp.i
 
 CMakeFiles/GB212Receiver.dir/MainService.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GB212Receiver.dir/MainService.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainService.cpp -o CMakeFiles/GB212Receiver.dir/MainService.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/GithubProjects/HJ212Receiver/sources/GB212Service/MainService.cpp -o CMakeFiles/GB212Receiver.dir/MainService.cpp.s
 
 CMakeFiles/GB212Receiver.dir/main.cpp.o: CMakeFiles/GB212Receiver.dir/flags.make
 CMakeFiles/GB212Receiver.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/GB212Receiver.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/main.cpp.o -c /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/GB212Receiver.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GB212Receiver.dir/main.cpp.o -c /root/GithubProjects/HJ212Receiver/sources/GB212Service/main.cpp
 
 CMakeFiles/GB212Receiver.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GB212Receiver.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/main.cpp > CMakeFiles/GB212Receiver.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/GithubProjects/HJ212Receiver/sources/GB212Service/main.cpp > CMakeFiles/GB212Receiver.dir/main.cpp.i
 
 CMakeFiles/GB212Receiver.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GB212Receiver.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/main.cpp -o CMakeFiles/GB212Receiver.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/GithubProjects/HJ212Receiver/sources/GB212Service/main.cpp -o CMakeFiles/GB212Receiver.dir/main.cpp.s
 
 # Object files for target GB212Receiver
 GB212Receiver_OBJECTS = \
@@ -155,7 +155,7 @@ GB212Receiver: CMakeFiles/GB212Receiver.dir/MainService.cpp.o
 GB212Receiver: CMakeFiles/GB212Receiver.dir/main.cpp.o
 GB212Receiver: CMakeFiles/GB212Receiver.dir/build.make
 GB212Receiver: CMakeFiles/GB212Receiver.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable GB212Receiver"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable GB212Receiver"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GB212Receiver.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -168,6 +168,6 @@ CMakeFiles/GB212Receiver.dir/clean:
 .PHONY : CMakeFiles/GB212Receiver.dir/clean
 
 CMakeFiles/GB212Receiver.dir/depend:
-	cd /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build /root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir/DependInfo.cmake --color=$(COLOR)
+	cd /root/GithubProjects/HJ212Receiver/sources/GB212Service/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /root/GithubProjects/HJ212Receiver/sources/GB212Service /root/GithubProjects/HJ212Receiver/sources/GB212Service /root/GithubProjects/HJ212Receiver/sources/GB212Service/build /root/GithubProjects/HJ212Receiver/sources/GB212Service/build /root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/GB212Receiver.dir/depend
 

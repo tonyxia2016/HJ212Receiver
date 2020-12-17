@@ -1,7 +1,7 @@
-/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/install/strip.dir
-/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/edit_cache.dir
-/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir
-/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/list_install_components.dir
-/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/install/local.dir
-/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/rebuild_cache.dir
-/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/install.dir
+/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/install/strip.dir
+/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/edit_cache.dir
+/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir
+/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/list_install_components.dir
+/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/install/local.dir
+/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/rebuild_cache.dir
+/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/install.dir

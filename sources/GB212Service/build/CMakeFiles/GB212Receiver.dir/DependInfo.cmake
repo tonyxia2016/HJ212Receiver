@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/Connection.cpp" "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir/Connection.cpp.o"
-  "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/DataMiddleware.cpp" "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o"
-  "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/GB212DataMiddleware.cpp" "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o"
-  "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainApp.cpp" "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir/MainApp.cpp.o"
-  "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/MainService.cpp" "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir/MainService.cpp.o"
-  "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/main.cpp" "/root/Programming/CPlusProjects/GB212接收和解析/HJ212Receiver/GB212Service/build/CMakeFiles/GB212Receiver.dir/main.cpp.o"
+  "/root/GithubProjects/HJ212Receiver/sources/GB212Service/Connection.cpp" "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir/Connection.cpp.o"
+  "/root/GithubProjects/HJ212Receiver/sources/GB212Service/DataMiddleware.cpp" "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir/DataMiddleware.cpp.o"
+  "/root/GithubProjects/HJ212Receiver/sources/GB212Service/GB212DataMiddleware.cpp" "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir/GB212DataMiddleware.cpp.o"
+  "/root/GithubProjects/HJ212Receiver/sources/GB212Service/MainApp.cpp" "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir/MainApp.cpp.o"
+  "/root/GithubProjects/HJ212Receiver/sources/GB212Service/MainService.cpp" "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir/MainService.cpp.o"
+  "/root/GithubProjects/HJ212Receiver/sources/GB212Service/main.cpp" "/root/GithubProjects/HJ212Receiver/sources/GB212Service/build/CMakeFiles/GB212Receiver.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
